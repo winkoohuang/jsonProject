@@ -10,6 +10,13 @@ namespace jsonProject
     {
         static void Main(string[] args)
         {
+
+
+        }
+
+        public void json()
+        {
+
         }
     }
 }
